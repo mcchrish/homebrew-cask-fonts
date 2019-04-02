@@ -1,6 +1,6 @@
 cask 'font-inter' do
-  version '3.3'
-  sha256 'b8733799800cedbc5459944ce48fbb8bb0b8fa674a865cd7359bfbaa0038fb0c'
+  version '3.5'
+  sha256 '81f6ac333068803eb1524ea7e0d8b33c9cdad140f97666e63fc7083ecb9e325f'
 
   # github.com/rsms/inter was verified as official when first introduced to the cask
   url "https://github.com/rsms/inter/releases/download/v#{version}/Inter-#{version}.zip"
